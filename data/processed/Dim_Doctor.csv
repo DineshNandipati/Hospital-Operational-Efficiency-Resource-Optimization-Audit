@@ -1,0 +1,121 @@
+Doctor_Key,Doctor_ID,Doctor_Name,Doctor_Specialization,Nurse_ID,Nurse_Name
+1,D047,Dr. N.Geethika,Gynecologic Oncology,N184,Divya Rao
+2,D009,Dr. R. Jyothi,Obstetrics And Gynecology,N170,Harika Raju
+3,D035,Dr. Y. Salman,Obstetrics And Gynecology,N055,Priyanka Kumar
+4,D071,Dr. Y. Salman,Obstetrics And Gynecology,N242,Swathi Verma
+5,D031,Dr. R. Jyothi,Obstetrics And Gynecology,N146,Kavya Varma
+6,D010,Dr. C. Anil,Obstetrics And Gynecology,N162,Sravani Goud
+7,D069,Dr. T. Kavitha,Obstetrics And Gynecology,N036,Bhavani Reddy
+8,D096,Dr. P. Madhavi,Obstetrics And Gynecology,N015,Swathi Kumar
+9,D097,Dr. A. Iswarya,Obstetrics And Gynecology,N019,Lakshmi Kumar
+10,D001,Dr. Y. Salman,Obstetrics And Gynecology,N088,Kavya Raju
+11,D032,Dr. P. Madhavi,Obstetrics And Gynecology,N027,Kavya Varma
+12,D099,Dr. Y. Salman,Obstetrics And Gynecology,N090,Priyanka Raju
+13,D109,Dr. C. Anil,Obstetrics And Gynecology,N185,Anusha Gupta
+14,D085,Dr. B. Keerthi,Obstetrics And Gynecology,N159,Sindhu Naidu
+15,D118,Dr. C. Anil,Obstetrics And Gynecology,N032,Swathi Rani
+16,D089,Dr. P. Madhavi,Obstetrics And Gynecology,N181,Kavya Sharma
+17,D017,Dr. R. Jyothi,Obstetrics And Gynecology,N137,Lakshmi Naidu
+18,D108,Dr. G. Ramesh,Obstetrics And Gynecology,N160,Priyanka Gupta
+19,D049,Dr. P. Madhavi,Obstetrics And Gynecology,N008,Priyanka Rani
+20,D090,Dr. T. Kavitha,Critical Care Specialist,N070,Sravani Goud
+21,D112,Dr. K. Naveen,Emergency Medicine,N147,Lakshmi Patel
+22,D008,Dr. B. Keerthi,Oncologist,N246,Divya Gupta
+23,D105,Dr. S. Suresh,Emergency Medicine,N249,Lakshmi Verma
+24,D102,Dr. Y. Salman,Orthopedic Surgeon,N107,Bhavani Patel
+25,D065,Dr. P. Madhavi,General Surgeon,N085,Divya Rao
+26,D022,Dr. M. Farooq,General Surgeon,N077,Harika Reddy
+27,D082,Dr. M. Divya,Orthopedic Surgeon,N177,Swathi Mohan
+28,D101,Dr. S. Pradeep,Cardiologist,N009,Bhavani Kumar
+29,D048,Dr. G. Ravi Kumar,Pediatrician,N192,Anusha Reddy
+30,D054,Dr. Jyothi Reddy,General Surgeon,N026,Kavya Raju
+31,D107,Dr. B. Chaitanya,Oncologist,N142,Swathi Krishna
+32,D079,Dr. S. Pradeep,Emergency Medicine,N187,Bhavani Krishna
+33,D084,Dr. V. Ramesh,Orthopedic Surgeon,N225,Lakshmi Kumar
+34,D040,Dr. B. Chaitanya,Critical Care Specialist,N027,Kavya Kumar
+35,D029,Dr. P. Suresh Kumar,Critical Care Specialist,N154,Bhavani Naidu
+36,D003,Dr. Jyothi Reddy,General Surgeon,N044,Priyanka Kumar
+37,D025,Dr. P. Madhavi,Critical Care Specialist,N155,Lakshmi Verma
+38,D070,Dr. K. Srinivas Reddy,Pediatrician,N190,Swathi Verma
+39,D021,Dr. S. Pradeep,Oncologist,N052,Sindhu Sharma
+40,D041,Dr. S. Pradeep,Neurologist,N026,Harika Krishna
+41,D006,Dr. V. Ramesh,Critical Care Specialist,N140,Lakshmi Verma
+42,D052,Dr. S. Harish Kumar,Oncologist,N113,Bhavani Devi
+43,D024,Dr. V. Ramesh,Cardiologist,N133,Divya Patel
+44,D083,Dr. A. Kavitha,Pediatrician,N124,Lakshmi Sharma
+45,D042,Dr. A. Kavitha,Orthopedic Surgeon,N148,Kavya Patel
+46,D074,Dr. A. Lakshmi,Critical Care Specialist,N029,Anusha Patel
+47,D037,Dr. A. Lakshmi,General Surgeon,N054,Swathi Varma
+48,D116,Dr. K. Srinivas Reddy,Critical Care Specialist,N058,Divya Reddy
+49,D120,Dr. P. Suresh Kumar,Oncologist,N247,Kavya Raju
+50,D012,Dr. P. Madhavi,Orthopedic Surgeon,N172,Bhavani Rao
+51,D018,Dr. K. Naveen,Emergency Medicine,N040,Divya Rani
+52,D066,Dr. A. Lakshmi,Emergency Medicine,N117,Anusha Kumar
+53,D013,Dr. A. Lakshmi,Critical Care Specialist,N009,Divya Devi
+54,D078,Dr. B. Chaitanya,Orthopedic Surgeon,N011,Kavya Rani
+55,D027,Dr. S. Pradeep,Emergency Medicine,N081,Divya Kumar
+56,D068,Dr. M. Divya,Neurologist,N011,Lakshmi Gupta
+57,D014,Dr. G. Ravi Kumar,General Surgeon,N002,Sravani Mohan
+58,D051,Dr. S. Harish Kumar,Critical Care Specialist,N075,Bhavani Verma
+59,D087,Dr. Jyothi Reddy,Oncologist,N205,Sravani Verma
+60,D055,Dr. B. Chaitanya,Oncologist,N055,Priyanka Reddy
+61,D073,Dr. V. Ramesh,Orthopedic Surgeon,N157,Anusha Verma
+62,D072,Dr. B. Chaitanya,Orthopedic Surgeon,N236,Divya Verma
+63,D091,Dr. G. Ravi Kumar,Neurologist,N155,Bhavani Raju
+64,D103,Dr. M. Divya,Oncologist,N091,Swathi Patel
+65,D119,Dr. S. Harish Kumar,Critical Care Specialist,N139,Swathi Naidu
+66,D067,Dr. V. Ramesh,Cardiologist,N147,Priyanka Sharma
+67,D117,Dr. B. Chaitanya,Pediatrician,N104,Priyanka Patel
+68,D114,Dr. Jyothi Reddy,Neurologist,N096,Sindhu Sharma
+69,D038,Dr. V. Ramesh,Cardiologist,N187,Anusha Verma
+70,D015,Dr. B. Chaitanya,Orthopedic Surgeon,N114,Sindhu Patel
+71,D046,Dr. A. Kavitha,Orthopedic Surgeon,N008,Swathi Sharma
+72,D063,Dr. K. Naveen,Emergency Medicine,N062,Divya Verma
+73,D007,Dr. P. Madhavi,Orthopedic Surgeon,N239,Bhavani Patel
+74,D059,Dr. G. Ravi Kumar,Neurologist,N085,Sindhu Naidu
+75,D086,Dr. A. Lakshmi,General Surgeon,N146,Anusha Goud
+76,D115,Dr. V. Ramesh,Emergency Medicine,N121,Anusha Rani
+77,D030,Dr. S. Pradeep,Orthopedic Surgeon,N172,Sravani Reddy
+78,D016,Dr. P. Suresh Kumar,Neurologist,N124,Lakshmi Naidu
+79,D028,Dr. A. Kavitha,General Surgeon,N103,Divya Krishna
+80,D005,Dr. B. Chaitanya,Oncologist,N062,Lakshmi Raju
+81,D033,Dr. S. Pradeep,Oncologist,N138,Bhavani Verma
+82,D023,Dr. S. Pradeep,Emergency Medicine,N081,Sravani Rani
+83,D110,Dr. G. Ravi Kumar,Emergency Medicine,N013,Kavya Varma
+84,D100,Dr. S. Pradeep,Cardiologist,N115,Anusha Varma
+85,D056,Dr. P. Madhavi,Cardiologist,N004,Divya Varma
+86,D093,Dr. A. Kavitha,Cardiologist,N065,Harika Varma
+87,D080,Dr. P. Suresh Kumar,Orthopedic Surgeon,N083,Anusha Kumar
+88,D020,Dr. M. Divya,Pediatrician,N230,Bhavani Reddy
+89,D113,Dr. K. Naveen,Emergency Medicine,N187,Anusha Rani
+90,D062,Dr. K. Naveen,Critical Care Specialist,N177,Anusha Krishna
+91,D050,Dr. P. Madhavi,Pediatrician,N023,Bhavani Mohan
+92,D004,Dr. Jyothi Reddy,Pediatrician,N111,Bhavani Raju
+93,D104,Dr. M. Divya,Orthopedic Surgeon,N221,Bhavani Patel
+94,D034,Dr. K. Naveen,Pediatrician,N048,Harika Gupta
+95,D092,Dr. A. Lakshmi,Emergency Medicine,N110,Anusha Krishna
+96,D036,Dr. S. Pradeep,Cardiologist,N249,Kavya Reddy
+97,D045,Dr. A. Lakshmi,Orthopedic Surgeon,N177,Bhavani Raju
+98,D011,Dr. S. Pradeep,Oncologist,N200,Swathi Naidu
+99,D058,Dr. S. Pradeep,Critical Care Specialist,N064,Swathi Devi
+100,D039,Dr. K. Srinivas Reddy,General Surgeon,N119,Harika Rani
+101,D095,Dr. K. Naveen,Oncologist,N117,Priyanka Sharma
+102,D057,Dr. S. Harish Kumar,Emergency Medicine,N091,Sindhu Varma
+103,D043,Dr. S. Pradeep,Neurologist,N078,Sindhu Reddy
+104,D044,Dr. A. Kavitha,Oncologist,N050,Lakshmi Naidu
+105,D111,Dr. K. Naveen,Orthopedic Surgeon,N187,Priyanka Rao
+106,D098,Dr. K. Naveen,Orthopedic Surgeon,N067,Lakshmi Devi
+107,D019,Dr. P. Suresh Kumar,Orthopedic Surgeon,N171,Lakshmi Kumar
+108,D088,Dr. K. Naveen,General Surgeon,N014,Lakshmi Krishna
+109,D060,Dr. P. Suresh Kumar,Cardiologist,N024,Sravani Rao
+110,D077,Dr. M. Divya,Neurologist,N188,Sindhu Rani
+111,D026,Dr. K. Srinivas Reddy,Emergency Medicine,N018,Bhavani Sharma
+112,D053,Dr. M. Divya,Cardiologist,N147,Priyanka Reddy
+113,D094,Dr. K. Naveen,Emergency Medicine,N241,Priyanka Varma
+114,D002,Dr. P. Madhavi,Neurologist,N031,Sravani Sharma
+115,D076,Dr. K. Srinivas Reddy,Critical Care Specialist,N204,Swathi Reddy
+116,D061,Dr. G. Ravi Kumar,Neurologist,N100,Priyanka Gupta
+117,D075,Dr. G. Ravi Kumar,Cardiologist,N196,Kavya Naidu
+118,D106,Dr. G. Ravi Kumar,Oncologist,N201,Sravani Rao
+119,D081,Dr. A. Lakshmi,Pediatrician,N116,Kavya Verma
+120,D064,Dr. P. Madhavi,Cardiologist,N020,Harika Raju
