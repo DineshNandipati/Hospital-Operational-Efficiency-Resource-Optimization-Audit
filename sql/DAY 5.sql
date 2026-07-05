@@ -18,6 +18,7 @@ SELECT
 FROM patient;
 
 -- LOS 
+-- length of stay
 
 SELECT
     Patient_ID,
@@ -27,8 +28,7 @@ SELECT
 FROM patient
 WHERE DATEDIFF(Discharge_Date, Admission_Date) <= 0;
 
---  invalid los (length of slay) 
-
+--
 SELECT COUNT(*) AS Invalid_LOS
 FROM patient
 WHERE DATEDIFF(Discharge_Date, Admission_Date) <= 0;
