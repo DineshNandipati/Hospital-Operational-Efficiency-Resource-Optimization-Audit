@@ -17,9 +17,6 @@ SELECT
     END AS LOS_Cohort
 FROM patient;
 
--- LOS 
--- length of stay
-
 SELECT
     Patient_ID,
     Admission_Date,
